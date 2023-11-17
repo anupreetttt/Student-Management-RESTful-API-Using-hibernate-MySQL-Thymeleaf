@@ -22,13 +22,13 @@ public class StudentManagementSpringBootResTfulApi implements CommandLineRunner 
 	@Override
 	public void run(String... args) throws Exception {
 
-//		Student student1 = new Student("Anu", "Paulkar", "anu@email.com");
+//		Student student1 = new Student("hello", "world", "anu@email.com");
 //		studentRepository.save(student1);
 //
-//		Student student2 = new Student("Sam", "Bhagat", "sam@email.com");
+//		Student student2 = new Student("john", "Cena", "sam@email.com");
 //		studentRepository.save(student2);
 //
-//		Student student3 = new Student("Sam", "Paulkar", "sam@easdadmail.com");
+//		Student student3 = new Student("Peaky", "Blinders", "sam@easdadmail.com");
 //		studentRepository.save(student3);
 	}
 }
